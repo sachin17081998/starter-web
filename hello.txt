@@ -8,3 +8,5 @@ adding sixth line
 
 
 starting new branch "mybranch"
+
+trying out rebase
